@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SuperCash</string>
+    <string name="title_activity_main">SuperCash</string>
+    <string name="package_name">com.supercash.app</string>
+    <string name="custom_url_scheme">com.supercash.app</string>
+</resources>
